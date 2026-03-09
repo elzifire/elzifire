@@ -1,0 +1,9 @@
+# Environment files (never commit secrets)
+.env
+.env.*
+!.env.example
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
