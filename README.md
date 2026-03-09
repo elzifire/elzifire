@@ -1,58 +1,87 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=ELZIFIRE%20%7C%20CYBERFUNK%20ZONE&fontAlign=50&fontAlignY=38&color=0:00f5ff,30:00c6ff,60:ff00a8,100:8f00ff&fontColor=0f172a&animation=fadeIn&stroke=00f5ff&strokeWidth=2" alt="Cyberfunk Header" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=ELZIFIRE%20%7C%20CYBERFUNK%20PROFILE&fontAlign=50&fontAlignY=38&color=0:00f5ff,30:00c6ff,60:ff00a8,100:8f00ff&fontColor=0f172a&animation=fadeIn&stroke=00f5ff&strokeWidth=2" alt="Cyberfunk Header" />
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2300&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Build+Fast.+Ship+Clean.+Think+Future.;Cyberfunk+Developer+Mode%3A+ONLINE;Code+%E2%80%A2+UI%2FUX+%E2%80%A2+Automation+%E2%80%A2+Learning+Everyday" alt="Typing Animation" />
+	<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2300&pause=900&color=00F5FF&center=true&vCenter=true&width=920&lines=Frontend+%26+Web+App+Builder;Cyberfunk+Mode%3A+ONLINE;JavaScript+%7C+PHP+%7C+Vue+%7C+HTML+%7C+Go+Explorer" alt="Typing Animation" />
 </p>
 
 <p align="center">
 	<a href="https://github.com/elzifire">
 		<img src="https://img.shields.io/badge/Profile-elzifire-00f5ff?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=0a0a0a" alt="Profile Badge" />
 	</a>
-	<img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20UI%2FUX-ff00a8?style=for-the-badge&logo=sketch&logoColor=0a0a0a&labelColor=0a0a0a" alt="Focus Badge" />
-	<img src="https://img.shields.io/badge/Vibe-Cyberfunk-8f00ff?style=for-the-badge&logo=audio-technica&logoColor=0a0a0a&labelColor=0a0a0a" alt="Vibe Badge" />
+	<img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Web%20Systems-ff00a8?style=for-the-badge&logo=webflow&logoColor=0a0a0a&labelColor=0a0a0a" alt="Focus Badge" />
+	<img src="https://img.shields.io/badge/Style-Cyberfunk%20Aesthetic-8f00ff?style=for-the-badge&logo=musicbrainz&logoColor=0a0a0a&labelColor=0a0a0a" alt="Style Badge" />
 </p>
 
 ---
 
-## ⚡ Neural Snapshot
+## NEURAL SNAPSHOT
 
-<table>
-	<tr>
-		<td width="50%" valign="top">
 
-### 👤 Identity
+### IDENTITY
 - Name: Elzifire
-- Role: Developer and Digital Builder
-- Mission: Build useful products with bold visual identity
-- Current Mode: Learning, shipping, improving
+- Main lane: Frontend and Web Application Development
+- Build style: Clean UX, practical product flow, strong visual identity
+- Current mode: Learning and shipping consistently
 
-### 🧠 Current Focus
-- Crafting web experience with strong UX fundamentals
-- Building maintainable and scalable code architecture
-- Exploring automation and AI-assisted workflows
+### CURRENT FOCUS
+- Build production-ready web interfaces
+- Improve backend logic with PHP ecosystem
+- Expand skill depth in Go for system-level understanding
 
-		</td>
-		<td width="50%" valign="top">
+		
+		
 
-### 🌐 Connect
+
+### CONNECT
 - GitHub: https://github.com/elzifire
 - Portfolio: add-your-portfolio-link
 - Email: add-your-email
 
-### 🎧 Fun Stack Mood
-- Music while coding: Synthwave, EDM, Lo-fi
-- Favorite workflow: Plan fast, prototype fast, polish deeply
-- Design direction: High contrast, neon, futuristic clarity
+### STACK FROM REPO DATA
+- JavaScript: 8 repos
+- PHP: 7 repos
+- HTML: 5 repos
+- Vue: 3 repos
+- Additional exploration: Go, Java, Dart, C++
 
-		</td>
-	</tr>
-</table>
+	
 
 ---
 
-## 📊 Power Metrics
+## REPOSITORY SIGNAL
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Primary-JavaScript-00f5ff?style=flat-square&labelColor=0d1117" alt="Primary JavaScript" />
+	<img src="https://img.shields.io/badge/Core-PHP-ff00a8?style=flat-square&labelColor=0d1117" alt="Core PHP" />
+	<img src="https://img.shields.io/badge/UI-HTML%20%26%20Vue-8f00ff?style=flat-square&labelColor=0d1117" alt="UI Stack" />
+	<img src="https://img.shields.io/badge/Learning-Go-00c6ff?style=flat-square&labelColor=0d1117" alt="Learning Go" />
+</p>
+
+
+### RECENT BUILDS
+- my-portofolio (Vue)
+- belajar-go-dasar (Go)
+- SIMAS-ALHIJRI2 (JavaScript)
+- service-collection- (PHP)
+
+### POPULAR PROJECTS
+- Dashboard-Admin1 (5 stars)
+- SIMAS-ALHIJRI2 (3 stars)
+- tugas-ppl (2 stars)
+- Front-endSekolah (2 stars)
+
+### BUILD THEMES
+- Dashboard and admin panel
+- Education and campus systems
+- Donation and social utility apps
+- Authentication and service APIs
+
+
+---
+
+## POWER METRICS
 
 <p align="center">
 	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=elzifire&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00a8&text_color=c9d1d9" alt="GitHub Stats" />
@@ -65,23 +94,23 @@
 
 ---
 
-## 🧩 Skill Matrix
+## SKILL MATRIX
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,tailwind,figma,git,github,vscode&perline=7" alt="Skill Icons" />
+	<img src="https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,go,java,dart,git,github,vscode,figma&perline=7" alt="Skill Icons" />
 </p>
 
 <details>
-	<summary><b>🔍 Expand Stack Details</b></summary>
+	<summary><b>EXPAND STACK DETAILS</b></summary>
 
 ### Frontend
-- HTML, CSS, JavaScript, TypeScript
-- React, Next.js
-- Responsive design and component-driven UI
+- HTML, CSS, JavaScript, Vue
+- Dashboard layout and responsive interface implementation
+- Component-based UI and practical page flow
 
 ### Backend
-- Node.js basics
-- API integration and data handling
+- PHP and Laravel-based app development
+- REST API consumption and service integration
 
 ### Design and Product
 - Figma for interface exploration
@@ -95,24 +124,43 @@
 
 ---
 
-## 🚀 Mission Board 2026
+## FEATURED REPOS
 
-- Build and publish more open-source projects
-- Improve system design and architecture decisions
-- Strengthen UI motion and micro-interaction quality
-- Collaborate with creators and dev communities
+<p align="center">
+	<a href="https://github.com/elzifire/my-portofolio">
+		<img src="https://img.shields.io/badge/my--portofolio-Vue-00f5ff?style=for-the-badge&labelColor=0d1117" alt="my-portofolio" />
+	</a>
+	<a href="https://github.com/elzifire/SIMAS-ALHIJRI2">
+		<img src="https://img.shields.io/badge/SIMAS--ALHIJRI2-JavaScript-ff00a8?style=for-the-badge&labelColor=0d1117" alt="SIMAS-ALHIJRI2" />
+	</a>
+	<a href="https://github.com/elzifire/tugas-ppl">
+		<img src="https://img.shields.io/badge/tugas--ppl-PHP-8f00ff?style=for-the-badge&labelColor=0d1117" alt="tugas-ppl" />
+	</a>
+	<a href="https://github.com/elzifire/belajar-go-dasar">
+		<img src="https://img.shields.io/badge/belajar--go--dasar-Go-00c6ff?style=for-the-badge&labelColor=0d1117" alt="belajar-go-dasar" />
+	</a>
+</p>
 
 ---
 
-## 🎮 Interactive Terminal Card
+## MISSION BOARD 2026
+
+- Push more polished Vue and JavaScript products
+- Strengthen Laravel and API architecture quality
+- Continue Go learning for backend and performance mindset
+- Improve UI motion system with cleaner UX behavior
+
+---
+
+## INTERACTIVE TERMINAL CARD
 
 <details>
-	<summary><b>Click to Enter Cyber Terminal</b></summary>
+	<summary><b>CLICK TO ENTER CYBER TERMINAL</b></summary>
 
 ```txt
 > boot --user elzifire
 [OK] identity loaded
-[OK] skill modules synced
+[OK] repo data synced (js/php/html/vue)
 [OK] mission board activated
 [READY] let's build something meaningful.
 ```
@@ -121,7 +169,7 @@
 
 ---
 
-## 🐍 Contribution Stream
+## CONTRIBUTION STREAM
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/elzifire/elzifire/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
@@ -134,5 +182,5 @@
 </p>
 
 <p align="center">
-	<b>Design Language:</b> Cyberfunk Neon • Human-centered UX • Performance-aware Build
+	<b>Cyberfunk Signature:</b> Neon Contrast • Functional UX • Real Repo-driven Identity
 </p>
