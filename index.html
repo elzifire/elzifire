@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Elzifire — Dashboard</title>
+  <link rel="stylesheet" href="assets/css/sidebar.css" />
+</head>
+<body>
+
+  <!-- ======== SIDEBAR ======== -->
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-header">
+      <span class="logo">⚡ ELZIFIRE</span>
+      <button class="sidebar-toggle" data-sidebar-toggle aria-label="Tutup sidebar">
+        ◀
+      </button>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a href="#" class="active">
+        <span class="icon">🏠</span> Dashboard
+      </a>
+      <a href="#">
+        <span class="icon">📁</span> Projects
+      </a>
+      <a href="#">
+        <span class="icon">📊</span> Analytics
+      </a>
+      <a href="#">
+        <span class="icon">⚙️</span> Settings
+      </a>
+    </nav>
+
+    <div class="sidebar-footer">
+      &copy; 2026 Elzifire
+    </div>
+  </aside>
+
+  <!-- ======== MAIN CONTENT ======== -->
+  <div class="main-content">
+    <header class="topbar">
+      <!-- Toggle button visible when sidebar is collapsed -->
+      <button class="sidebar-toggle" data-sidebar-toggle aria-label="Buka sidebar">
+        ▶
+      </button>
+      <h1>Dashboard</h1>
+    </header>
+
+    <main class="content-area">
+      <div class="card">
+        <h2>Sidebar Local Storage</h2>
+        <p>
+          Status sidebar (terbuka / tertutup) disimpan di <code>localStorage</code>.
+          Coba tutup sidebar lalu refresh halaman — sidebar akan tetap tertutup.
+          Buka kembali dan refresh — sidebar akan tetap terbuka.
+        </p>
+      </div>
+
+      <div class="card">
+        <h2>Cara Kerja</h2>
+        <p>
+          Setiap kali tombol toggle diklik, state <code>"sidebar-collapsed"</code>
+          disimpan ke <code>localStorage</code> sebagai <code>"true"</code> atau
+          <code>"false"</code>. Saat halaman dimuat ulang, script membaca nilai
+          tersebut dan langsung menerapkannya sebelum halaman terlihat.
+        </p>
+      </div>
+    </main>
+  </div>
+
+  <script src="assets/js/sidebar.js"></script>
+</body>
+</html>
